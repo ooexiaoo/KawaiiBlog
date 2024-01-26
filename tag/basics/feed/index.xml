@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>KawaiiDoro</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Basics &#8211; KawaiiDoro</title>
+	<atom:link href="/tag/basics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Fri, 26 Jan 2024 18:29:36 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/01/cropped-mini-32x32.webp</url>
-	<title>KawaiiDoro</title>
+	<title>Basics &#8211; KawaiiDoro</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
