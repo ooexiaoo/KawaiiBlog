@@ -12,7 +12,7 @@
 	<atom:link href="/author/vrp12/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Fri, 26 Jan 2024 18:29:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Jan 2024 17:48:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The History and Evolution of the Pomodoro Technique</title>
+		<link>/the-history-and-evolution-of-the-pomodoro-technique/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Sun, 28 Jan 2024 17:23:13 +0000</pubDate>
+				<category><![CDATA[Pomodoro]]></category>
+		<category><![CDATA[History]]></category>
+		<guid isPermaLink="false">/?p=323</guid>
+
+					<description><![CDATA[How did Pomodoro Technique start? What is the history of Pomodoro? Learn all about the history of Pomodoro in this article]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Pomodoro Technique 101</title>
 		<link>/pomodoro-technique-101/</link>
 		
