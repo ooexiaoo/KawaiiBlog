@@ -12,7 +12,7 @@
 	<atom:link href="/author/vrp12/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Mon, 29 Jan 2024 10:25:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 16:52:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>5 Easy Steps to Get Things Done with the Pomodoro Technique</title>
+		<link>/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2024 16:51:31 +0000</pubDate>
+				<category><![CDATA[Pomodoro]]></category>
+		<category><![CDATA[Step-By-Step]]></category>
+		<guid isPermaLink="false">/?p=364</guid>
+
+					<description><![CDATA[Want to get things done but can't seem to do anything? Here are 5 easy steps to get things done with the pomodoro technique]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Getting Started with Pomodoro</title>
 		<link>/getting-started-with-pomodoro/</link>
 		
