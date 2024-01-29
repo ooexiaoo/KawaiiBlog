@@ -12,7 +12,7 @@
 	<atom:link href="/category/pomodoro/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Sun, 28 Jan 2024 17:48:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jan 2024 10:19:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,13 +21,29 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-mini-32x32.webp</url>
+	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>Pomodoro &#8211; KawaiiDoro</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Getting Started with Pomodoro</title>
+		<link>/getting-started-with-pomodoro/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2024 10:18:30 +0000</pubDate>
+				<category><![CDATA[Pomodoro]]></category>
+		<category><![CDATA[Basics]]></category>
+		<category><![CDATA[Time Mangement]]></category>
+		<guid isPermaLink="false">/?p=348</guid>
+
+					<description><![CDATA[Dive into the world of Pomodoro with our beginner-friendly guide! Learn how to boost productivity, conquer procrastination, and make the most of your time. Time management just got a whole lot more exciting!]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The History and Evolution of the Pomodoro Technique</title>
 		<link>/the-history-and-evolution-of-the-pomodoro-technique/</link>
 		
