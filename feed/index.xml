@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Mon, 29 Jan 2024 16:52:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Jan 2024 16:49:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Science Behind Pomodoro</title>
+		<link>/the-science-behind-pomodoro/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2024 16:49:34 +0000</pubDate>
+				<category><![CDATA[Pomodoro]]></category>
+		<category><![CDATA[Science]]></category>
+		<guid isPermaLink="false">/?p=368</guid>
+
+					<description><![CDATA[Understand why the Pomodoro Technique works so well. In this article you'll the science behind the Pomodoro Technique]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>5 Easy Steps to Get Things Done with the Pomodoro Technique</title>
 		<link>/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/</link>
 		
