@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Science &#8211; KawaiiDoro</title>
-	<atom:link href="/tag/science/feed/" rel="self" type="application/rss+xml" />
+	<title>Taking Breaks &#8211; KawaiiDoro</title>
+	<atom:link href="/tag/taking-breaks/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Mon, 05 Feb 2024 17:46:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Feb 2024 06:13:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,22 +22,22 @@
 
 <image>
 	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
-	<title>Science &#8211; KawaiiDoro</title>
+	<title>Taking Breaks &#8211; KawaiiDoro</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>The Science Behind Pomodoro</title>
-		<link>/the-science-behind-pomodoro/</link>
+		<title>How Breaks Affect Your Concentration Levels</title>
+		<link>/how-breaks-affect-your-concentration-levels/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
-		<pubDate>Wed, 31 Jan 2024 16:49:34 +0000</pubDate>
+		<pubDate>Fri, 16 Feb 2024 06:13:50 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
-		<category><![CDATA[Science]]></category>
-		<guid isPermaLink="false">/?p=368</guid>
+		<category><![CDATA[Taking Breaks]]></category>
+		<guid isPermaLink="false">/?p=374</guid>
 
-					<description><![CDATA[Understand why the Pomodoro Technique works so well. In this article you'll the science behind the Pomodoro Technique]]></description>
+					<description><![CDATA[Why taking regular breaks in your pomodoro session is more important than you think. Learn how taking breaks can improve your concentration.]]></description>
 		
 		
 		

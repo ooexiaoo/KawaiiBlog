@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Wed, 31 Jan 2024 16:49:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Feb 2024 06:13:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Breaks Affect Your Concentration Levels</title>
+		<link>/how-breaks-affect-your-concentration-levels/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2024 06:13:50 +0000</pubDate>
+				<category><![CDATA[Pomodoro]]></category>
+		<category><![CDATA[Taking Breaks]]></category>
+		<guid isPermaLink="false">/?p=374</guid>
+
+					<description><![CDATA[Why taking regular breaks in your pomodoro session is more important than you think. Learn how taking breaks can improve your concentration.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Science Behind Pomodoro</title>
 		<link>/the-science-behind-pomodoro/</link>
 		
