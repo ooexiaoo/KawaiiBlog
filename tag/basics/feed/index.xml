@@ -12,7 +12,7 @@
 	<atom:link href="/tag/basics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Thu, 29 Feb 2024 19:48:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Mar 2024 00:51:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pomodoro Basics with Kawaiidoro</title>
+		<link>/pomodoro-basics-with-kawaiidoro/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2024 00:28:11 +0000</pubDate>
+				<category><![CDATA[Pomodoro]]></category>
+		<category><![CDATA[Basics]]></category>
+		<category><![CDATA[Time Mangement]]></category>
+		<guid isPermaLink="false">/?p=389</guid>
+
+					<description><![CDATA[<p>Discover the ultimate guide to mastering time management with the Pomodoro Technique, enhanced by a delightful kawaii anime twist through Kawaiidoro. Explore step-by-step implementation, tips for effective sessions, and the benefits of this proven method.</p>
+<p>The post <a href="/pomodoro-basics-with-kawaiidoro/">Pomodoro Basics with Kawaiidoro</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Getting Started with Pomodoro</title>
 		<link>/getting-started-with-pomodoro/</link>
 		
