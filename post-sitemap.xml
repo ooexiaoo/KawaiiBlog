@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-05T00:51:03+00:00</lastmod>
+		<lastmod>2024-03-05T04:20:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/how-breaks-affect-your-concentration-levels/</loc>
@@ -29,19 +29,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/getting-started-with-pomodoro/</loc>
-		<lastmod>2024-02-29T19:46:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Getting-Started-with-Pomdoro.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Screenshot_20240129_153540.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Timer.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/the-history-and-evolution-of-the-pomodoro-technique/</loc>
 		<lastmod>2024-02-29T19:47:32+00:00</lastmod>
 		<image:image>
@@ -50,16 +37,38 @@
 	</url>
 	<url>
 		<loc>/pomodoro-technique-101/</loc>
-		<lastmod>2024-02-29T19:48:54+00:00</lastmod>
+		<lastmod>2024-03-05T04:19:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/ezgif.com-jpg-to-webp-converter.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/getting-started-with-pomodoro/</loc>
+		<lastmod>2024-03-05T04:20:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Getting-Started-with-Pomdoro.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Screenshot_20240129_153540.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Timer.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/pomodoro-basics-with-kawaiidoro/</loc>
-		<lastmod>2024-03-05T00:51:03+00:00</lastmod>
+		<lastmod>2024-03-05T04:20:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/ezgif.com-resize.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
