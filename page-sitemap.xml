@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>/home/</loc>
+		<lastmod>2024-07-12T04:59:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/cross-red.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/cross-grey.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/cross-yellow.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/sticker_5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Zettelkasten-qqzgi65pts1ol2i954inha3sso91kzld6zhi2yv1nk.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/ezgif.com-jpg-to-webp-converter-1-qpl7p5ft5br70cm0sxo88c0pu5r5n7jd3nsig4ikym.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Focus-qqzfxc2ibziv88rst4ad7jdyr6y4yivkbuw145r7kw.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/cross-red-qqzhpaz3g33dcvup9rqbwe9a57nesytxsh7miulqm8.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/tags/</loc>
