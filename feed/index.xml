@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Where Cuteness Meets Progress!</description>
-	<lastBuildDate>Mon, 26 Aug 2024 18:29:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Sep 2024 08:25:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
@@ -28,17 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Pomodoro Technique for Students: How to Boost Study Sessions</title>
+		<title>Unlocking Your Potential: How Mental Models Can Skyrocket Your Productivity</title>
+		<link>/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/</link>
+		
+		<dc:creator><![CDATA[EXIA]]></dc:creator>
+		<pubDate>Wed, 18 Sep 2024 13:40:59 +0000</pubDate>
+				<category><![CDATA[Mental Models]]></category>
+		<category><![CDATA[80/20 Rule]]></category>
+		<category><![CDATA[Decision-making]]></category>
+		<category><![CDATA[First Principles]]></category>
+		<category><![CDATA[Increase Productivity]]></category>
+		<category><![CDATA[Productivity hacks]]></category>
+		<guid isPermaLink="false">/?p=603</guid>
+
+					<description><![CDATA[<p>Mental models can change your productivity game, here's how you can implement these mental models into your daily life.</p>
+<p>The post <a href="/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/">Unlocking Your Potential: How Mental Models Can Skyrocket Your Productivity</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pomodoro Techniques for Students – Maximizing Study Efficiency</title>
 		<link>/pomodoro-technique-for-students-how-to-boost-study-sessions/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 05:01:28 +0000</pubDate>
-				<category><![CDATA[Pomodoro]]></category>
-		<category><![CDATA[Student]]></category>
+				<category><![CDATA[Effective Study Habits]]></category>
+		<category><![CDATA[12 Week Year]]></category>
+		<category><![CDATA[Exam Preparation Tips]]></category>
+		<category><![CDATA[Focus and Concentration]]></category>
+		<category><![CDATA[Overcoming Procrastination]]></category>
+		<category><![CDATA[Pomodoro Technique]]></category>
+		<category><![CDATA[Productivity for College Students]]></category>
+		<category><![CDATA[Short Study Sessions]]></category>
+		<category><![CDATA[Study Hacks]]></category>
+		<category><![CDATA[Study Methods]]></category>
+		<category><![CDATA[Study Sprints]]></category>
+		<category><![CDATA[Time Management for Students]]></category>
 		<guid isPermaLink="false">/?p=544</guid>
 
 					<description><![CDATA[<p>Are you a student who struggles to study? or you just want to improve your focus and study more? If Yes! Then this blog is for you.</p>
-<p>The post <a href="/pomodoro-technique-for-students-how-to-boost-study-sessions/">Pomodoro Technique for Students: How to Boost Study Sessions</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="/pomodoro-technique-for-students-how-to-boost-study-sessions/">Pomodoro Techniques for Students – Maximizing Study Efficiency</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -183,24 +214,6 @@
 
 					<description><![CDATA[<p>How did Pomodoro Technique start? What is the history of Pomodoro? Learn all about the history of Pomodoro in this article</p>
 <p>The post <a href="/the-history-and-evolution-of-the-pomodoro-technique/">The History and Evolution of the Pomodoro Technique</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pomodoro Technique 101</title>
-		<link>/pomodoro-technique-101/</link>
-		
-		<dc:creator><![CDATA[EXIA]]></dc:creator>
-		<pubDate>Fri, 26 Jan 2024 18:29:35 +0000</pubDate>
-				<category><![CDATA[Pomodoro]]></category>
-		<category><![CDATA[Basics]]></category>
-		<category><![CDATA[Time Mangement]]></category>
-		<guid isPermaLink="false">/?p=317</guid>
-
-					<description><![CDATA[<p>Do you know that using Pomodoro Technique can help you increase your productivity many times over? Learn all about it in this article</p>
-<p>The post <a href="/pomodoro-technique-101/">Pomodoro Technique 101</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
