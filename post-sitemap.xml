@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-19T08:25:58+00:00</lastmod>
+		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/the-history-and-evolution-of-the-pomodoro-technique/</loc>
@@ -55,13 +55,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/the-science-behind-the-pomodoro-technique/</loc>
-		<lastmod>2024-09-19T08:18:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/db9b284191ab88f89b22a5e2d0bc734c8a6c1e15_high-scaled.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/understanding-focus-and-productivity/</loc>
 		<lastmod>2024-09-19T08:19:41+00:00</lastmod>
 		<image:image>
@@ -97,6 +90,27 @@
 		<lastmod>2024-09-19T08:25:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/greek.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-science-behind-the-pomodoro-technique/</loc>
+		<lastmod>2024-09-21T11:22:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/714ecc89f40ddae725ce21c51f93d55c8c63e741_high.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/combining-pomodoro-with-agile-methodologies/</loc>
+		<lastmod>2024-09-21T11:25:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/desktop-and-pc.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/</loc>
+		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/8079c7c706eca973f5a2557cacd2cae3_high.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
