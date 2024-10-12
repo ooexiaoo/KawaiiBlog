@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<atom:link href="/tag/history/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog.kawaiidoro.com/tag/history/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Wed, 18 Sep 2024 14:15:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<link>/</link>
+	<link>https://blog.kawaiidoro.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The History and Evolution of the Pomodoro Technique</title>
-		<link>/the-history-and-evolution-of-the-pomodoro-technique/</link>
+		<link>https://blog.kawaiidoro.com/the-history-and-evolution-of-the-pomodoro-technique/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Sun, 28 Jan 2024 17:23:13 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[History]]></category>
-		<guid isPermaLink="false">/?p=323</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=323</guid>
 
 					<description><![CDATA[<p>How did Pomodoro Technique start? What is the history of Pomodoro? Learn all about the history of Pomodoro in this article</p>
-<p>The post <a href="/the-history-and-evolution-of-the-pomodoro-technique/">The History and Evolution of the Pomodoro Technique</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/the-history-and-evolution-of-the-pomodoro-technique/">The History and Evolution of the Pomodoro Technique</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

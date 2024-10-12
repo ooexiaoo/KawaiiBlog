@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blog.kawaiidoro.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://blog.kawaiidoro.com/post-sitemap.xml</loc>
 		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://blog.kawaiidoro.com/page-sitemap.xml</loc>
 		<lastmod>2024-09-19T08:12:56+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://blog.kawaiidoro.com/category-sitemap.xml</loc>
 		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post_tag-sitemap.xml</loc>
+		<loc>https://blog.kawaiidoro.com/post_tag-sitemap.xml</loc>
 		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>https://blog.kawaiidoro.com/author-sitemap.xml</loc>
 		<lastmod>2024-09-17T15:10:04+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

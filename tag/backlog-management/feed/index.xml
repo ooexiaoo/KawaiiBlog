@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<atom:link href="/tag/backlog-management/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog.kawaiidoro.com/tag/backlog-management/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Sat, 21 Sep 2024 11:25:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<link>/</link>
+	<link>https://blog.kawaiidoro.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Combining Pomodoro with Agile Methodologies: A Guide for Software Developers</title>
-		<link>/combining-pomodoro-with-agile-methodologies/</link>
+		<link>https://blog.kawaiidoro.com/combining-pomodoro-with-agile-methodologies/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Sat, 21 Sep 2024 11:15:28 +0000</pubDate>
@@ -49,10 +49,10 @@
 		<category><![CDATA[Time Management for Developers]]></category>
 		<category><![CDATA[Timeboxing]]></category>
 		<category><![CDATA[Work Efficiency]]></category>
-		<guid isPermaLink="false">/?p=657</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=657</guid>
 
 					<description><![CDATA[<p>Discover how to enhance your productivity as a software developer by integrating the Pomodoro Technique with Agile methodologies. This guide explores effective strategies for sprint planning, backlog management, and using Kanban boards, all designed to maximize focus, efficiency, and prevent burnout.</p>
-<p>The post <a href="/combining-pomodoro-with-agile-methodologies/">Combining Pomodoro with Agile Methodologies: A Guide for Software Developers</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/combining-pomodoro-with-agile-methodologies/">Combining Pomodoro with Agile Methodologies: A Guide for Software Developers</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

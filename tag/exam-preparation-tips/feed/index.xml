@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<atom:link href="/tag/exam-preparation-tips/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog.kawaiidoro.com/tag/exam-preparation-tips/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Sat, 21 Sep 2024 11:57:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<link>/</link>
+	<link>https://blog.kawaiidoro.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Science of Time and Focus: Rewiring Your Brain with the Pomodoro Technique</title>
-		<link>/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/</link>
+		<link>https://blog.kawaiidoro.com/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 20 Sep 2024 06:58:38 +0000</pubDate>
@@ -61,10 +61,10 @@
 		<category><![CDATA[Taking Breaks]]></category>
 		<category><![CDATA[Time Management for Students]]></category>
 		<category><![CDATA[Zettlekasten]]></category>
-		<guid isPermaLink="false">/?p=653</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=653</guid>
 
 					<description><![CDATA[<p>What if a simple technique for managing your time could actually change how your brain works? The Pomodoro Technique—a time-management method that alternates 25-minute bursts of work with short breaks—has gained widespread popularity for boosting productivity. But behind this seemingly simple method lies something profound: it rewires your brain. In this article, we’ll explore how [&#8230;]</p>
-<p>The post <a href="/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/">The Science of Time and Focus: Rewiring Your Brain with the Pomodoro Technique</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/">The Science of Time and Focus: Rewiring Your Brain with the Pomodoro Technique</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -72,7 +72,7 @@
 			</item>
 		<item>
 		<title>Pomodoro Techniques for Students – Maximizing Study Efficiency</title>
-		<link>/pomodoro-technique-for-students-how-to-boost-study-sessions/</link>
+		<link>https://blog.kawaiidoro.com/pomodoro-technique-for-students-how-to-boost-study-sessions/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 05:01:28 +0000</pubDate>
@@ -88,10 +88,10 @@
 		<category><![CDATA[Study Methods]]></category>
 		<category><![CDATA[Study Sprints]]></category>
 		<category><![CDATA[Time Management for Students]]></category>
-		<guid isPermaLink="false">/?p=544</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=544</guid>
 
 					<description><![CDATA[<p>Are you a student who struggles to study? or you just want to improve your focus and study more? If Yes! Then this blog is for you.</p>
-<p>The post <a href="/pomodoro-technique-for-students-how-to-boost-study-sessions/">Pomodoro Techniques for Students – Maximizing Study Efficiency</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/pomodoro-technique-for-students-how-to-boost-study-sessions/">Pomodoro Techniques for Students – Maximizing Study Efficiency</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

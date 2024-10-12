@@ -1,116 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blog.kawaiidoro.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://blog.kawaiidoro.com/</loc>
 		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/the-history-and-evolution-of-the-pomodoro-technique/</loc>
+		<loc>https://blog.kawaiidoro.com/the-history-and-evolution-of-the-pomodoro-technique/</loc>
 		<lastmod>2024-09-18T14:15:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/student.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/student.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/getting-started-with-pomodoro/</loc>
+		<loc>https://blog.kawaiidoro.com/getting-started-with-pomodoro/</loc>
 		<lastmod>2024-09-19T08:14:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/cc54d61a4b6c2abde40caa664bef809d4959aa7d_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/cc54d61a4b6c2abde40caa664bef809d4959aa7d_high.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Screenshot_20240129_153540.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/Screenshot_20240129_153540.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Timer.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/Timer.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/</loc>
+		<loc>https://blog.kawaiidoro.com/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/</loc>
 		<lastmod>2024-09-19T08:15:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/408adb04805afaf0ccf26a5d79338d4c582dbf89_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/408adb04805afaf0ccf26a5d79338d4c582dbf89_high.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/how-breaks-affect-your-concentration-levels/</loc>
+		<loc>https://blog.kawaiidoro.com/how-breaks-affect-your-concentration-levels/</loc>
 		<lastmod>2024-09-19T08:16:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/12d0e4eb5f39ab29b183f05a9108114e_low.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/12d0e4eb5f39ab29b183f05a9108114e_low.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/Concentration-With-Time.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/02/Concentration-With-Time.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/pomodoro-basics-with-kawaiidoro/</loc>
+		<loc>https://blog.kawaiidoro.com/pomodoro-basics-with-kawaiidoro/</loc>
 		<lastmod>2024-09-19T08:17:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/0014cabfa85fabc08608b1287ca908b5ca68715e_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/0014cabfa85fabc08608b1287ca908b5ca68715e_high.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/understanding-focus-and-productivity/</loc>
+		<loc>https://blog.kawaiidoro.com/understanding-focus-and-productivity/</loc>
 		<lastmod>2024-09-19T08:19:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/605ad62b38ea31c3c9b7db228b38f5d54d0651a8_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/605ad62b38ea31c3c9b7db228b38f5d54d0651a8_high.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/integrating-and-zettelkasten-method-for-maximum-productivity/</loc>
+		<loc>https://blog.kawaiidoro.com/integrating-and-zettelkasten-method-for-maximum-productivity/</loc>
 		<lastmod>2024-09-19T08:20:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/454637f0b92100c8b30b17050572c3bf_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/454637f0b92100c8b30b17050572c3bf_high.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/pomodoro-technique-for-students-how-to-boost-study-sessions/</loc>
+		<loc>https://blog.kawaiidoro.com/pomodoro-technique-for-students-how-to-boost-study-sessions/</loc>
 		<lastmod>2024-09-19T08:22:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/6c8ba56155863994e2d62e5508648f3d1a976788_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/6c8ba56155863994e2d62e5508648f3d1a976788_high.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/pomodoro-technique-101/</loc>
+		<loc>https://blog.kawaiidoro.com/pomodoro-technique-101/</loc>
 		<lastmod>2024-09-19T08:23:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/girlstudent.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/girlstudent.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/03/Drawing2024-03-0509.34.15.excalidraw-ezgif.com-resize.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/</loc>
+		<loc>https://blog.kawaiidoro.com/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/</loc>
 		<lastmod>2024-09-19T08:25:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/greek.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/greek.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/the-science-behind-the-pomodoro-technique/</loc>
+		<loc>https://blog.kawaiidoro.com/the-science-behind-the-pomodoro-technique/</loc>
 		<lastmod>2024-09-21T11:22:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/714ecc89f40ddae725ce21c51f93d55c8c63e741_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/714ecc89f40ddae725ce21c51f93d55c8c63e741_high.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/combining-pomodoro-with-agile-methodologies/</loc>
+		<loc>https://blog.kawaiidoro.com/combining-pomodoro-with-agile-methodologies/</loc>
 		<lastmod>2024-09-21T11:25:15+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/desktop-and-pc.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/desktop-and-pc.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/</loc>
+		<loc>https://blog.kawaiidoro.com/the-science-of-time-and-focus-rewiring-your-brain-with-the-pomodoro-technique/</loc>
 		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/8079c7c706eca973f5a2557cacd2cae3_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/8079c7c706eca973f5a2557cacd2cae3_high.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>

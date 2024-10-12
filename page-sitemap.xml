@@ -1,109 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blog.kawaiidoro.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://blog.kawaiidoro.com/</loc>
 	</url>
 	<url>
-		<loc>/tags/</loc>
+		<loc>https://blog.kawaiidoro.com/tags/</loc>
 		<lastmod>2023-01-20T14:20:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>https://blog.kawaiidoro.com/contact/</loc>
 		<lastmod>2024-01-26T08:31:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/</loc>
+		<loc>https://blog.kawaiidoro.com/blog/</loc>
 		<lastmod>2024-07-12T04:11:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/home/</loc>
+		<loc>https://blog.kawaiidoro.com/home/</loc>
 		<lastmod>2024-07-12T04:59:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/cross-red.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/cross-red.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/cross-grey.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/cross-grey.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/cross-yellow.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/cross-yellow.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/sticker_5.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/sticker_5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Zettelkasten-qqzgi65pts1ol2i954inha3sso91kzld6zhi2yv1nk.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/elementor/thumbs/Zettelkasten-qqzgi65pts1ol2i954inha3sso91kzld6zhi2yv1nk.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/ezgif.com-jpg-to-webp-converter-1-qpl7p5ft5br70cm0sxo88c0pu5r5n7jd3nsig4ikym.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/elementor/thumbs/ezgif.com-jpg-to-webp-converter-1-qpl7p5ft5br70cm0sxo88c0pu5r5n7jd3nsig4ikym.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Focus-qqzfxc2ibziv88rst4ad7jdyr6y4yivkbuw145r7kw.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/elementor/thumbs/Focus-qqzfxc2ibziv88rst4ad7jdyr6y4yivkbuw145r7kw.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/cross-red-qqzhpaz3g33dcvup9rqbwe9a57nesytxsh7miulqm8.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/elementor/thumbs/cross-red-qqzhpaz3g33dcvup9rqbwe9a57nesytxsh7miulqm8.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/home-2/</loc>
+		<loc>https://blog.kawaiidoro.com/home-2/</loc>
 		<lastmod>2024-09-18T13:28:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-image-1.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-image-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-1.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-2.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-3.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-3.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-4.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-4.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-5.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-5.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-6.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-6.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-image-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-1.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-2.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/simple-harmony/assets/images/harmony-headshot-3.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/themes/simple-harmony/assets/images/harmony-headshot-3.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
+		<loc>https://blog.kawaiidoro.com/privacy-policy/</loc>
 		<lastmod>2024-09-19T08:12:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/ffc8346162328199239b25d3475d4bffa335b305_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/ffc8346162328199239b25d3475d4bffa335b305_high.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
+		<loc>https://blog.kawaiidoro.com/about/</loc>
 		<lastmod>2024-09-19T08:12:56+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/3736c54b389b5ee880327c220cea2a62c2b728dd_high.webp</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/09/3736c54b389b5ee880327c220cea2a62c2b728dd_high.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/sticker_5.png</image:loc>
+			<image:loc>https://blog.kawaiidoro.com/wp-content/uploads/2024/07/sticker_5.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

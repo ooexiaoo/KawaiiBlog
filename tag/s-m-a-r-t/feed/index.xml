@@ -9,8 +9,8 @@
 
 <channel>
 	<title>S.M.A.R.T Archives - KawaiiDoro</title>
-	<atom:link href="/tag/s-m-a-r-t/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/s-m-a-r-t/</link>
+	<atom:link href="https://blog.kawaiidoro.com/tag/s-m-a-r-t/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/tag/s-m-a-r-t/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Thu, 19 Sep 2024 08:19:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>S.M.A.R.T Archives - KawaiiDoro</title>
-	<link>/tag/s-m-a-r-t/</link>
+	<link>https://blog.kawaiidoro.com/tag/s-m-a-r-t/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Understanding Focus and Productivity</title>
-		<link>/understanding-focus-and-productivity/</link>
+		<link>https://blog.kawaiidoro.com/understanding-focus-and-productivity/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 03:49:30 +0000</pubDate>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Focus]]></category>
 		<category><![CDATA[Productivity]]></category>
 		<category><![CDATA[S.M.A.R.T]]></category>
-		<guid isPermaLink="false">/?p=432</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=432</guid>
 
 					<description><![CDATA[<p>Maintaining focus and productivity in our distraction-filled world can feel like an uphill battle. Learn how to focus better with pomdoro</p>
-<p>The post <a href="/understanding-focus-and-productivity/">Understanding Focus and Productivity</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/understanding-focus-and-productivity/">Understanding Focus and Productivity</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

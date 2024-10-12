@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<atom:link href="/tag/80-20-rule/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog.kawaiidoro.com/tag/80-20-rule/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Thu, 19 Sep 2024 08:25:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<link>/</link>
+	<link>https://blog.kawaiidoro.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Unlocking Your Potential: How Mental Models Can Skyrocket Your Productivity</title>
-		<link>/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/</link>
+		<link>https://blog.kawaiidoro.com/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Wed, 18 Sep 2024 13:40:59 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[First Principles]]></category>
 		<category><![CDATA[Increase Productivity]]></category>
 		<category><![CDATA[Productivity hacks]]></category>
-		<guid isPermaLink="false">/?p=603</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=603</guid>
 
 					<description><![CDATA[<p>Mental models can change your productivity game, here's how you can implement these mental models into your daily life.</p>
-<p>The post <a href="/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/">Unlocking Your Potential: How Mental Models Can Skyrocket Your Productivity</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/unlocking-your-potential-how-mental-models-can-skyrocket-your-productivity/">Unlocking Your Potential: How Mental Models Can Skyrocket Your Productivity</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

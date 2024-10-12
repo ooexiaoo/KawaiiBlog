@@ -9,8 +9,8 @@
 
 <channel>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<atom:link href="/category/pomodoro/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog.kawaiidoro.com/category/pomodoro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Sat, 21 Sep 2024 11:22:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>KawaiiDoro - Where Cuteness Meets Progress!</title>
-	<link>/</link>
+	<link>https://blog.kawaiidoro.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Integrating and Zettelkasten Method for Maximum Productivity</title>
-		<link>/integrating-and-zettelkasten-method-for-maximum-productivity/</link>
+		<link>https://blog.kawaiidoro.com/integrating-and-zettelkasten-method-for-maximum-productivity/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 04:03:15 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Slip-Box]]></category>
 		<category><![CDATA[Zettlekasten]]></category>
-		<guid isPermaLink="false">/?p=438</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=438</guid>
 
 					<description><![CDATA[<p>While each offers distinct benefits on its own, combining them can create a powerful synergy that enhances focus, learning, and creativity.</p>
-<p>The post <a href="/integrating-and-zettelkasten-method-for-maximum-productivity/">Integrating and Zettelkasten Method for Maximum Productivity</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/integrating-and-zettelkasten-method-for-maximum-productivity/">Integrating and Zettelkasten Method for Maximum Productivity</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -47,7 +47,7 @@
 			</item>
 		<item>
 		<title>Understanding Focus and Productivity</title>
-		<link>/understanding-focus-and-productivity/</link>
+		<link>https://blog.kawaiidoro.com/understanding-focus-and-productivity/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 03:49:30 +0000</pubDate>
@@ -55,10 +55,10 @@
 		<category><![CDATA[Focus]]></category>
 		<category><![CDATA[Productivity]]></category>
 		<category><![CDATA[S.M.A.R.T]]></category>
-		<guid isPermaLink="false">/?p=432</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=432</guid>
 
 					<description><![CDATA[<p>Maintaining focus and productivity in our distraction-filled world can feel like an uphill battle. Learn how to focus better with pomdoro</p>
-<p>The post <a href="/understanding-focus-and-productivity/">Understanding Focus and Productivity</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/understanding-focus-and-productivity/">Understanding Focus and Productivity</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -66,7 +66,7 @@
 			</item>
 		<item>
 		<title>The Science Behind the Pomodoro Technique</title>
-		<link>/the-science-behind-the-pomodoro-technique/</link>
+		<link>https://blog.kawaiidoro.com/the-science-behind-the-pomodoro-technique/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 21 Jun 2024 07:50:42 +0000</pubDate>
@@ -75,10 +75,10 @@
 		<category><![CDATA[Mihaly Csikszentmihalyi]]></category>
 		<category><![CDATA[Neuropsychopharmacology]]></category>
 		<category><![CDATA[Psychological Science]]></category>
-		<guid isPermaLink="false">/?p=423</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=423</guid>
 
 					<description><![CDATA[<p>Harnesses cognitive science to boost productivity. This method leverages focused attention, dopamine-driven motivation, and the brain's natural rhythms to enhance concentration, prevent burnout, and improve memory, offering a balanced, effective approach to time management and task completion.</p>
-<p>The post <a href="/the-science-behind-the-pomodoro-technique/">The Science Behind the Pomodoro Technique</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/the-science-behind-the-pomodoro-technique/">The Science Behind the Pomodoro Technique</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -86,17 +86,17 @@
 			</item>
 		<item>
 		<title>Pomodoro Basics with Kawaiidoro</title>
-		<link>/pomodoro-basics-with-kawaiidoro/</link>
+		<link>https://blog.kawaiidoro.com/pomodoro-basics-with-kawaiidoro/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Tue, 05 Mar 2024 00:28:11 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Basics]]></category>
 		<category><![CDATA[Time Mangement]]></category>
-		<guid isPermaLink="false">/?p=389</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=389</guid>
 
 					<description><![CDATA[<p>Discover the ultimate guide to mastering time management with the Pomodoro Technique, enhanced by a delightful kawaii anime twist through Kawaiidoro. Explore step-by-step implementation, tips for effective sessions, and the benefits of this proven method.</p>
-<p>The post <a href="/pomodoro-basics-with-kawaiidoro/">Pomodoro Basics with Kawaiidoro</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/pomodoro-basics-with-kawaiidoro/">Pomodoro Basics with Kawaiidoro</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -104,16 +104,16 @@
 			</item>
 		<item>
 		<title>How Breaks Affect Your Concentration Levels</title>
-		<link>/how-breaks-affect-your-concentration-levels/</link>
+		<link>https://blog.kawaiidoro.com/how-breaks-affect-your-concentration-levels/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 16 Feb 2024 06:13:50 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Taking Breaks]]></category>
-		<guid isPermaLink="false">/?p=374</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=374</guid>
 
 					<description><![CDATA[<p>Why taking regular breaks in your pomodoro session is more important than you think. Learn how taking breaks can improve your concentration.</p>
-<p>The post <a href="/how-breaks-affect-your-concentration-levels/">How Breaks Affect Your Concentration Levels</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/how-breaks-affect-your-concentration-levels/">How Breaks Affect Your Concentration Levels</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -121,16 +121,16 @@
 			</item>
 		<item>
 		<title>5 Easy Steps to Get Things Done with the Pomodoro Technique</title>
-		<link>/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/</link>
+		<link>https://blog.kawaiidoro.com/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Mon, 29 Jan 2024 16:51:31 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Step-By-Step]]></category>
-		<guid isPermaLink="false">/?p=364</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=364</guid>
 
 					<description><![CDATA[<p>Want to get things done but can't seem to do anything? Here are 5 easy steps to get things done with the pomodoro technique</p>
-<p>The post <a href="/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/">5 Easy Steps to Get Things Done with the Pomodoro Technique</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/5-easy-steps-to-get-things-done-with-the-pomodoro-technique/">5 Easy Steps to Get Things Done with the Pomodoro Technique</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -138,17 +138,17 @@
 			</item>
 		<item>
 		<title>Getting Started with Pomodoro</title>
-		<link>/getting-started-with-pomodoro/</link>
+		<link>https://blog.kawaiidoro.com/getting-started-with-pomodoro/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Mon, 29 Jan 2024 10:18:30 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Basics]]></category>
 		<category><![CDATA[Time Mangement]]></category>
-		<guid isPermaLink="false">/?p=348</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=348</guid>
 
 					<description><![CDATA[<p>Dive into the world of Pomodoro with our beginner-friendly guide! Learn how to boost productivity, conquer procrastination, and make the most of your time. Time management just got a whole lot more exciting!</p>
-<p>The post <a href="/getting-started-with-pomodoro/">Getting Started with Pomodoro</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/getting-started-with-pomodoro/">Getting Started with Pomodoro</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -156,16 +156,16 @@
 			</item>
 		<item>
 		<title>The History and Evolution of the Pomodoro Technique</title>
-		<link>/the-history-and-evolution-of-the-pomodoro-technique/</link>
+		<link>https://blog.kawaiidoro.com/the-history-and-evolution-of-the-pomodoro-technique/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Sun, 28 Jan 2024 17:23:13 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[History]]></category>
-		<guid isPermaLink="false">/?p=323</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=323</guid>
 
 					<description><![CDATA[<p>How did Pomodoro Technique start? What is the history of Pomodoro? Learn all about the history of Pomodoro in this article</p>
-<p>The post <a href="/the-history-and-evolution-of-the-pomodoro-technique/">The History and Evolution of the Pomodoro Technique</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/the-history-and-evolution-of-the-pomodoro-technique/">The History and Evolution of the Pomodoro Technique</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		
@@ -173,17 +173,17 @@
 			</item>
 		<item>
 		<title>Pomodoro Technique 101</title>
-		<link>/pomodoro-technique-101/</link>
+		<link>https://blog.kawaiidoro.com/pomodoro-technique-101/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2024 18:29:35 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Basics]]></category>
 		<category><![CDATA[Time Mangement]]></category>
-		<guid isPermaLink="false">/?p=317</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=317</guid>
 
 					<description><![CDATA[<p>Do you know that using Pomodoro Technique can help you increase your productivity many times over? Learn all about it in this article</p>
-<p>The post <a href="/pomodoro-technique-101/">Pomodoro Technique 101</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/pomodoro-technique-101/">Pomodoro Technique 101</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

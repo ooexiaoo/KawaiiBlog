@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blog.kawaiidoro.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/effective-study-habits/</loc>
+		<loc>https://blog.kawaiidoro.com/category/effective-study-habits/</loc>
 		<lastmod>2024-09-19T08:22:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/mental-models/</loc>
+		<loc>https://blog.kawaiidoro.com/category/mental-models/</loc>
 		<lastmod>2024-09-19T08:25:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/neuroscience-and-cognitive-performance/</loc>
+		<loc>https://blog.kawaiidoro.com/category/neuroscience-and-cognitive-performance/</loc>
 		<lastmod>2024-09-21T11:57:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/pomodoro/</loc>
+		<loc>https://blog.kawaiidoro.com/category/pomodoro/</loc>
 		<lastmod>2024-09-21T11:22:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/productivity-and-time-management/</loc>
+		<loc>https://blog.kawaiidoro.com/category/productivity-and-time-management/</loc>
 		<lastmod>2024-09-21T11:25:15+00:00</lastmod>
 	</url>
 </urlset>

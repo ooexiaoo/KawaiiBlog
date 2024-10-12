@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Slip-Box Archives - KawaiiDoro</title>
-	<atom:link href="/tag/slip-box/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/slip-box/</link>
+	<atom:link href="https://blog.kawaiidoro.com/tag/slip-box/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.kawaiidoro.com/tag/slip-box/</link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Thu, 19 Sep 2024 08:20:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
+	<url>https://blog.kawaiidoro.com/wp-content/uploads/2024/01/cropped-cat-1-32x32.webp</url>
 	<title>Slip-Box Archives - KawaiiDoro</title>
-	<link>/tag/slip-box/</link>
+	<link>https://blog.kawaiidoro.com/tag/slip-box/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Integrating and Zettelkasten Method for Maximum Productivity</title>
-		<link>/integrating-and-zettelkasten-method-for-maximum-productivity/</link>
+		<link>https://blog.kawaiidoro.com/integrating-and-zettelkasten-method-for-maximum-productivity/</link>
 		
 		<dc:creator><![CDATA[EXIA]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 04:03:15 +0000</pubDate>
 				<category><![CDATA[Pomodoro]]></category>
 		<category><![CDATA[Slip-Box]]></category>
 		<category><![CDATA[Zettlekasten]]></category>
-		<guid isPermaLink="false">/?p=438</guid>
+		<guid isPermaLink="false">https://blog.kawaiidoro.com/?p=438</guid>
 
 					<description><![CDATA[<p>While each offers distinct benefits on its own, combining them can create a powerful synergy that enhances focus, learning, and creativity.</p>
-<p>The post <a href="/integrating-and-zettelkasten-method-for-maximum-productivity/">Integrating and Zettelkasten Method for Maximum Productivity</a> appeared first on <a href="/">KawaiiDoro</a>.</p>
+<p>The post <a href="https://blog.kawaiidoro.com/integrating-and-zettelkasten-method-for-maximum-productivity/">Integrating and Zettelkasten Method for Maximum Productivity</a> appeared first on <a href="https://blog.kawaiidoro.com/">KawaiiDoro</a>.</p>
 ]]></description>
 		
 		

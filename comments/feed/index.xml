@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for KawaiiDoro	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.kawaiidoro.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Where Cuteness Meets Progress!</description>
 	<lastBuildDate>Sat, 21 Sep 2024 11:57:46 +0000</lastBuildDate>
